@@ -1,5 +1,5 @@
-# GregTech0
-The original Lightning Rod Addon for Singleplayer Minecraft 1.2.5. Requires IC2 Version 1.103.
+# GregTech 0
+The original Lightning Rod Addon for Singleplayer Minecraft 1.2.5 with IndustrialCraft² 1.103.
 
 More Details on the Release Page https://github.com/GregTech6/GregTech0/releases/tag/v1.0.0
 
